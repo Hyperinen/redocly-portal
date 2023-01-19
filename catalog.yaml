@@ -1,0 +1,11 @@
+
+apiCatalog:
+  - title: Test API 1 v3
+    disableAutoSidebar: true
+    versions:
+      - link: https://api.redocly.com/registry/assets/orgz/Test%20api%201/v3?branch=main
+  - title: Test API 2 v1
+    disableAutoSidebar: true
+    versions:
+      - link: https://api.redocly.com/registry/assets/orgz/Test%20api%202/v1?branch=main
+  
